@@ -1,0 +1,9 @@
+li{
+    cursor: pointer;
+}
+
+li:hover{
+    transition-timing-function: linear;
+    transition-duration: 0.1s;
+    transform: scale(1.09);
+}
